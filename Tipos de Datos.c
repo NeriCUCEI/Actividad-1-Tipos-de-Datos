@@ -1,10 +1,12 @@
 #include <stdio.h>
+
 /*
   Gabriel Antonio Neri Reyes
   222559699
-  Programación Estructurada
-  Tipos de Datos: Código C
+  ProgramaciÃ³n Estructurada
+  Tipos de Datos: CÃ³digo C
 */
+
 int main() {
     int Entero = 67;
     float Q = 3.75;
